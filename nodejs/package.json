@@ -1,0 +1,16 @@
+{
+  "name": "netsuite-oauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "oauth-1.0a": "^2.2.5",
+    "request": "^2.88.0"
+  }
+}
